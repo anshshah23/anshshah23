@@ -1,5 +1,8 @@
+![github readme image](https://github.com/anshshah23/anshshah23/assets/122973942/de8ff55a-9796-4e99-865e-803807f6b1b3)
+
 <h1 align="center">Hi 👋, I'm Ansh Shah</h1>
 <h3 align="center">A passionate Frontend Developer and a budding Full Stack Web Developer from India.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshshah23&label=Profile%20views&color=0e75b6&style=flat" alt="anshshah23" /> </p>
 
