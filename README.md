@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshshah23&show_icons=true&locale=en" alt="anshshah23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshshah23&" alt="anshshah23" /></p>
+https://raw.githubusercontent.com/anshshah23/anshshah23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
