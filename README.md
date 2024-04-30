@@ -1,8 +1,6 @@
 ![github readme image](https://github.com/anshshah23/anshshah23/assets/122973942/de8ff55a-9796-4e99-865e-803807f6b1b3)
 
-<h1 align="center">Hi 👋, I'm Ansh Shah</h1>
-<h3 align="center">A passionate Frontend Developer and a budding Full Stack Web Developer from India.</h3>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=000435A8&random=false&width=435&lines=Hey+there%2C+my+name+is;Ansh+Shah;I+am+a+Full+Stack+Web+Developer+and+a+budding+AI+and+ML+developer." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshshah23&label=Profile%20views&color=0e75b6&style=flat" alt="anshshah23" /> </p>
 
