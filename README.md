@@ -33,7 +33,7 @@ Join me in the journey to learn React.js right from the basics, we shall cover a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anshshah23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshshah23" height="30" width="40" /></a>
- <a href="https://instagram.com/anshshah.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshshah.23" height="30" width="40" /></a>
+ <a href="https://instagram.com/anshshah.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshshah.23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshshah23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshshah23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshshah23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshshah23" height="30" width="40" /></a>
 </p>
