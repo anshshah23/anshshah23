@@ -5,14 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshshah23&label=Profile%20views&color=0e75b6&style=flat" alt="anshshah23" /> </p>
 
 # 🔥Visit my website:
-<a href="https://anshshah2303.vercel.app">Personal Website</a>
+<a href="https://anshshah2303.vercel.app" target="blank" rel="noopener noreferrer">Personal Website</a>
 
 # 💻 Start learning React:
 Join me in the journey to learn React.js right from the basics, we shall cover all the topics, and finally build a major project as the finale! Follow the link to start NOW!
-<a href="https://github.com/anshshah23/learning-react">Learning React</a>
+<a href="https://github.com/anshshah23/learning-react" target="blank" rel="noopener noreferrer">Learning React</a>
 
 # 💫 About Me:
- I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at github.com/anshshah23/<br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me anshshah2303@gmail.com<br><br>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1gh1Bvc4RnGiQPMu6kejUaXr53gLAlQ8b/view?usp=drivesdk" >View My Portfolio</a>
+ I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at github.com/anshshah23/<br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me anshshah2303@gmail.com<br><br>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1gh1Bvc4RnGiQPMu6kejUaXr53gLAlQ8b/view?usp=drivesdk" target="blank" rel="noopener noreferrer">View My Portfolio</a>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juzt.artz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshshah23) 
