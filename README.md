@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshshah23&label=Profile%20views&color=0e75b6&style=flat" alt="anshshah23" /> </p>
 
 # 🔥Visit my website:
-<a href="https://anshshah2303.vercel.app" target="blank" rel="noopener noreferrer">My Website</a>
+<a href="https://anshshah2303.vercel.app" target="blank" rel="noopener noreferrer">My Personal Website</a>
 
 # 💻 Start learning React:
 Join me in the journey to learn React.js right from the basics, we shall cover all the topics, and finally build a major project as the finale! Follow the link to start NOW!
