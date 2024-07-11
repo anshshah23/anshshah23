@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshshah23&label=Profile%20views&color=0e75b6&style=flat" alt="anshshah23" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Hey+there👋+%2C;+I'm+Ansh+Shah💻+%2C;I+am+a+Full+Stack+Web+Developer🚀;+Competitive+Coder+✊🏻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Hey+there👋;+I'm+Ansh+Shah💻;+Full+Stack+Web+Developer🚀;+Competitive+Coder+✊🏻;" />
 </h1>
+<hr>
 # 🔥Visit my website:
 <a href="https://anshshah2303.vercel.app" target="blank" rel="noopener noreferrer">Personal Website</a>
 
