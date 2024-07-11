@@ -1,7 +1,6 @@
 ![github readme image](https://github.com/anshshah23/anshshah23/assets/122973942/de8ff55a-9796-4e99-865e-803807f6b1b3)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshshah23&label=Profile%20views&color=0e75b6&style=flat" alt="anshshah23" /> </p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anshshah23.anshshah23" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there👋%2C+I'm+Ansh+Shah;I+am+a+Full+Stack+Web+Developer🚀;+Competitive+Coder+✊🏻;" />
