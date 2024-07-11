@@ -1,9 +1,11 @@
 ![github readme image](https://github.com/anshshah23/anshshah23/assets/122973942/de8ff55a-9796-4e99-865e-803807f6b1b3)
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hey+there%2C+I'm+Ansh+Shah;I+am+a+Full+Stack+Web+Developer;+and+a+budding+AI+and+ML+developer." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshshah23&label=Profile%20views&color=0e75b6&style=flat" alt="anshshah23" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anshshah23.anshshah23" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there👋%2C+I'm+Ansh+Shah;I+am+a+Full+Stack+Web+Developer🚀;+Competitive+Coder+✊🏻;" />
+</h1>
 # 🔥Visit my website:
 <a href="https://anshshah2303.vercel.app" target="blank" rel="noopener noreferrer">Personal Website</a>
 
