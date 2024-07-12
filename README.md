@@ -9,7 +9,7 @@
 
 # 🔥Visit my website:
 <a href="https://anshshah2303.vercel.app" target="blank" rel="noopener noreferrer">Personal Website</a>
-
+<br><br>
 # 💻 Start learning React:
 Join me in the journey to learn React.js right from the basics, we shall cover all the topics, and finally build a major project as the finale! Follow the link to start NOW!
 <a href="https://github.com/anshshah23/learning-react" target="blank" rel="noopener noreferrer">Learning React</a>
