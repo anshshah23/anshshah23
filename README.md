@@ -23,8 +23,7 @@ Join me in the journey to learn React.js right from the basics, we shall cover a
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshshah23&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anshshah23&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshshah23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=anshshah23&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=anshshah23&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshshah23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
