@@ -29,7 +29,7 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
 
 5) [**Gemfind**](https://gemfind.com): A platform to search and explore various gemstones. Worked on it as an internship project at <a href="https://www.brainvire.com/" target="blank" rel="noopener noreferrer">Brainvire Infotech</a>.
 
-6) **MedCure**: A healthcare solution designed to improve patient care and medical service accessibility.
+6) [**MedCure**](https://github.com/anshshah23/medcare): A healthcare solution designed to improve patient care and medical service accessibility.
 
 7) [**Personal Website**](https://anshshah.vercel.app): My personal portfolio, showcasing my projects, skills, and background.
 
