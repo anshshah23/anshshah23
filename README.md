@@ -37,6 +37,8 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
 
 9) [**Weather App**](https://weather-app-byansh.vercel.app/): Stay updated on the latest weather conditions with this real-time weather app.
 
+10) [**Dr. Komal's Wellness**](https://www.drkomalswellness.com/): Website for Dr. Komal's Wellness, developed and deployed using Wix Studio. Complete with automations and products.
+
 I look forward to expanding my expertise and continuing to build impactful solutions, with a special focus on AI in the near future!
 
 
