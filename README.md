@@ -16,6 +16,31 @@ Join me in the journey to learn React.js right from the basics, we shall cover a
 
 # 💡 My Projects:
 
+Welcome to my project portfolio! Over the years, I have worked on a diverse range of projects, starting with web development technologies like HTML, CSS, and JavaScript, and later advancing to more complex frameworks such as React and Next.js. Now, I'm excited to shift my focus toward AI-based projects, exploring how artificial intelligence can drive innovation in various domains.
+
+### Featured Projects:
+1) [**Travel Essence**](https://travelessence-byansh.vercel.app): Discover essential must-visit travel destinations! From bustling tourist spots to luxury hotels and local restaurants, this app has you covered for all your travel needs.
+
+2) [**PrepMaster**](https://prepmaster-one.vercel.app): A platform designed to help job candidates prepare for interviews by sharing insights and tips.
+
+3) [**AI Recipe Generator**](https://recipegeneratorreactapp.onrender.com/): Generate delicious recipes based on the ingredients you have on hand with the power of AI.
+
+4) **DJS NSS Website**: A community platform for the NSS chapter at DJ Sanghvi College.
+
+5) [**Gemfind**](https://gemfind.com): A platform to search and explore various gemstones.
+
+6) **MedCure**: A healthcare solution designed to improve patient care and medical service accessibility.
+
+7) [**Personal Website**](https://anshshah.vercel.app): My personal portfolio, showcasing my projects, skills, and background.
+
+8) [**Noteng**](https://noteng.vercel.app): A dynamic note-taking application designed for efficiency.
+
+9) [**Neotravels**](https://neo-travels.vercel.app/): A clean and simple travel website built with HTML, CSS, and JavaScript.
+
+10) [**Weather App**](https://weather-app-byansh.vercel.app/): Stay updated on the latest weather conditions with this real-time weather app.
+
+I look forward to expanding my expertise and continuing to build impactful solutions, with a special focus on AI in the near future!
+
 
 # 💫 About Me:
  I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at github.com/anshshah23/<br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me anshshah2303@gmail.com<br><br>📄 Know about my experiences: <a href="https://drive.google.com/file/d/14SVSVwtZ-jmlT8jr49MBGB3c-YKKjTV3/view?usp=drive_link" target="blank" rel="noopener noreferrer">View My Portfolio</a>
