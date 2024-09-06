@@ -35,9 +35,7 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
 
 8) [**Noteng**](https://noteng.vercel.app): A dynamic note-taking application designed for efficiency.
 
-9) [**Neotravels**](https://neo-travels.vercel.app/): A clean and simple travel website built with HTML, CSS, and JavaScript.
-
-10) [**Weather App**](https://weather-app-byansh.vercel.app/): Stay updated on the latest weather conditions with this real-time weather app.
+9) [**Weather App**](https://weather-app-byansh.vercel.app/): Stay updated on the latest weather conditions with this real-time weather app.
 
 I look forward to expanding my expertise and continuing to build impactful solutions, with a special focus on AI in the near future!
 
