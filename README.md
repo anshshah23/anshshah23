@@ -27,7 +27,7 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
 
 4) **DJS NSS Website**: A community platform for the NSS chapter at DJ Sanghvi College.
 
-5) [**Gemfind**](https://gemfind.com): A platform to search and explore various gemstones.
+5) [**Gemfind**](https://gemfind.com): A platform to search and explore various gemstones. Worked on it as an internship project at <a href="https://www.brainvire.com/" target="blank" rel="noopener noreferrer">Brainvire Infotech</a>.
 
 6) **MedCure**: A healthcare solution designed to improve patient care and medical service accessibility.
 
