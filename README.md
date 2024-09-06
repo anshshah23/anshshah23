@@ -25,7 +25,7 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
 
 3) [**AI Recipe Generator**](https://recipegeneratorreactapp.onrender.com/): Generate delicious recipes based on the ingredients you have on hand with the power of AI.
 
-4) **DJS NSS Website**: A community platform for the NSS chapter at DJ Sanghvi College.
+4) [**DJS NSS Website**](https://github.com/djsnss/djsnss-website/): A community platform for the NSS chapter at DJ Sanghvi College.
 
 5) [**Gemfind**](https://gemfind.com): A platform to search and explore various gemstones. Worked on it as an internship project at <a href="https://www.brainvire.com/" target="blank" rel="noopener noreferrer">Brainvire Infotech</a>.
 
