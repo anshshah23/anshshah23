@@ -43,7 +43,7 @@ I look forward to expanding my expertise and continuing to build impactful solut
 
 
 # 💫 About Me:
- I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at <a href="https://github.com/anshshah23/" target="blank" rel="noopener noreferrer">Github</a><br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me <a href="mailto:anshshah2303@gmail.com" target="_blank" rel="noopener noreferrer">
+ I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at <a href="https://github.com/anshshah23/" target="blank" rel="noopener noreferrer">Github</a><br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me <a href="mailto:anshshah2303@gmail.com" target="_blank" rel="noopener noreferrer">
         anshshah2303@gmail.com
     </a><br><br>📄 Know about my experiences: <a href="https://drive.google.com/file/d/14SVSVwtZ-jmlT8jr49MBGB3c-YKKjTV3/view?usp=drive_link" target="blank" rel="noopener noreferrer">View My Portfolio</a>
 
