@@ -14,6 +14,9 @@ My <a href="https://anshshah.vercel.app" target="blank" rel="noopener noreferrer
 Join me in the journey to learn React.js right from the basics, we shall cover all the topics, and finally build a major project as the finale! Follow the link to start NOW!
 <a href="https://github.com/anshshah23/learning-react" target="blank" rel="noopener noreferrer">Learning React</a>
 
+# 💡 My Projects:
+
+
 # 💫 About Me:
  I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at github.com/anshshah23/<br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me anshshah2303@gmail.com<br><br>📄 Know about my experiences: <a href="https://drive.google.com/file/d/14SVSVwtZ-jmlT8jr49MBGB3c-YKKjTV3/view?usp=drive_link" target="blank" rel="noopener noreferrer">View My Portfolio</a>
 
