@@ -21,11 +21,11 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
 ### Featured Projects:
 1) [**Travel Essence**](https://travelessence-byansh.vercel.app): Discover essential must-visit travel destinations! From bustling tourist spots to luxury hotels and local restaurants, this app has you covered for all your travel needs.
 
-2) [**PrepMaster**](https://prepmaster-one.vercel.app): A platform designed to help job candidates prepare for interviews by sharing insights and tips.
+2) [**PrepNudge**](https://prepnudge.vercel.app): A platform designed to help job candidates prepare for interviews by sharing insights and tips.
 
 3) [**AI Recipe Generator**](https://recipegeneratorreactapp.onrender.com/): Generate delicious recipes based on the ingredients you have on hand with the power of AI.
 
-4) [**DJS NSS Website**](https://github.com/djsnss/djsnss-website/): A community platform for the NSS chapter at DJ Sanghvi College.
+4) [**DJS NSS Website**](https://djsnss-official.vercel.app/): A community platform for the NSS chapter at DJ Sanghvi College.
 
 5) [**Gemfind**](https://gemfind.com): A platform to search and explore various gemstones. Worked on it as an internship project at <a href="https://www.brainvire.com/" target="blank" rel="noopener noreferrer">Brainvire Infotech</a>.
 
