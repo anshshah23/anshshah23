@@ -39,6 +39,10 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
 
 10) [**Dr. Komal's Wellness**](https://www.drkomalswellness.com/): Website for Dr. Komal's Wellness, developed and deployed using Wix Studio. Complete with automations and products.
 
+11) [**Ask Campus**](https://ask-campus.vercel.app/): A student management system for colleges and campuses, complete with AI Analytics and an integrated Chatbot specifically catering to quering built using custom model based on already answered queries.
+
+12) [**AaharAlly**](): A food booking system with ML for analytics, giving customized preferences and recommendations focused on the value of Healthy Food, and based on your medical history and ongoing medications to avoid health risks and healthy alternatives.  
+
 I look forward to expanding my expertise and continuing to build impactful solutions, with a special focus on AI in the near future!
 
 
