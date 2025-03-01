@@ -62,7 +62,7 @@ I look forward to expanding my expertise and continuing to build impactful solut
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=anshshah23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="anshshah23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=anshshah23&theme=onedark](https://github.com/ryo-ma/github-profile-trophy)" alt="anshshah23" /></a> </p>
 ---
 
 <h3 align="left">Connect with me:</h3>
