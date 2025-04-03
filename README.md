@@ -14,37 +14,85 @@ My <a href="https://anshshah.vercel.app" target="blank" rel="noopener noreferrer
 Join me in the journey to learn React.js right from the basics, we shall cover all the topics, and finally build a major project as the finale! Follow the link to start NOW!
 <a href="https://github.com/anshshah23/learning-react" target="blank" rel="noopener noreferrer">Learning React</a>
 
-# 💡 My Projects:
+# 🚀 My Projects  
 
-Welcome to my project portfolio! Over the years, I have worked on a diverse range of projects, starting with web development technologies like HTML, CSS, and JavaScript, and later advancing to more complex frameworks such as React and Next.js. Now, I'm excited to shift my focus toward AI-based projects, exploring how artificial intelligence can drive innovation in various domains.
+## 1️⃣ [PhishNetAi](https://phishnetai.vercel.app/)  
+A phishing detection AI with real-time scanning, deep analysis, and continuous learning.  
 
-### Featured Projects:
-1) [**Travel Essence**](https://travelessence-byansh.vercel.app): Discover essential must-visit travel destinations! From bustling tourist spots to luxury hotels and local restaurants, this app has you covered for all your travel needs.
+### 🔹 How It Works  
+- **Real-Time Detection**: Scans emails, URLs, and metadata.  
+- **Deep Analysis**: Uses NLP, domain analysis, and visual similarity detection.  
+- **Continuous Learning**: Integrates user feedback, automated retraining, and threat intelligence.  
 
-2) [**PrepNudge**](https://prepnudge.vercel.app): A platform designed to help job candidates prepare for interviews by sharing insights and tips.
+## 2️⃣ [Travel Essence](https://travelessence-byansh.vercel.app)  
+Discover must-visit travel destinations! Covers **tourist spots, luxury hotels, and local restaurants**.  
 
-3) [**AI Recipe Generator**](https://recipegeneratorreactapp.onrender.com/): Generate delicious recipes based on the ingredients you have on hand with the power of AI.
+## 3️⃣ [PrepNudge](https://prepnudge.vercel.app)  
+A platform to help job candidates **prepare for interviews** with shared insights and tips.  
 
-4) [**DJS NSS Website**](https://djsnss-official.vercel.app/): A community platform for the NSS chapter at DJ Sanghvi College.
+## 4️⃣ [AI Recipe Generator](https://recipegeneratorreactapp.onrender.com/)  
+Generate delicious recipes based on available ingredients using **AI-powered suggestions**.  
 
-5) [**Gemfind**](https://gemfind.com): A platform to search and explore various gemstones. Worked on it as an internship project at <a href="https://www.brainvire.com/" target="blank" rel="noopener noreferrer">Brainvire Infotech</a>.
+## 5️⃣ [DJS NSS Website](https://www.djsnss.com)  
+The official website for **DJ Sanghvi College's NSS chapter**, built with **React + Tailwind**.  
+### 🔹 Features  
+- **User Authentication**: Login & Signup  
+- **Volunteership Tracking**: Log & track hours  
+- **Events & Announcements**  
 
-6) [**MedCure**](https://github.com/anshshah23/medcare): A healthcare solution designed to improve patient care and medical service accessibility.
+## 6️⃣ [Gemfind](https://gemfind.com)  
+A gemstone search and exploration platform. Built during an **internship at Brainvire Infotech**.  
 
-7) [**Personal Website**](https://anshshah.vercel.app): My personal portfolio, showcasing my projects, skills, and background.
+## 7️⃣ [MedCure](https://github.com/anshshah23/medcare)  
+A **healthcare solution** to improve patient care & medical service accessibility.  
 
-8) [**Noteng**](https://noteng.vercel.app): A dynamic note-taking application designed for efficiency.
+## 8️⃣ [Personal Website](https://anshshah.vercel.app)  
+My portfolio, showcasing **projects, skills, and background**.  
 
-9) [**Weather App**](https://weather-app-byansh.vercel.app/): Stay updated on the latest weather conditions with this real-time weather app.
+## 9️⃣ [Noteng](https://noteng.vercel.app)  
+A **dynamic note-taking app** for efficient organization.  
 
-10) [**Dr. Komal's Wellness**](https://www.drkomalswellness.com/): Website for Dr. Komal's Wellness, developed and deployed using Wix Studio. Complete with automations and products.
+## 🔟 [Weather App](https://weather-app-byansh.vercel.app/)  
+Real-time weather tracking for accurate **forecasts & updates**.  
 
-11) [**Ask Campus**](https://ask-campus.vercel.app/): A student management system for colleges and campuses, complete with AI Analytics and an integrated Chatbot specifically catering to quering built using custom model based on already answered queries.
+## 1️⃣1️⃣ [Dr. Komal's Wellness](https://www.drkomalswellness.com/)  
+A **Wix Studio-based** wellness website with **automations & product management**.  
 
-12) [**AaharAlly**](): A food booking system with ML for analytics, giving customized preferences and recommendations focused on the value of Healthy Food, and based on your medical history and ongoing medications to avoid health risks and healthy alternatives.  
+## 1️⃣2️⃣ [Ask Campus](https://ask-campus.vercel.app/)  
+A **student management system** with:  
+- **AI Analytics**  
+- **Custom AI Chatbot** trained on past queries.  
 
-I look forward to expanding my expertise and continuing to build impactful solutions, with a special focus on AI in the near future!
+## 1️⃣3️⃣ AaharAlly  
+A **food booking system** with **ML-powered analytics** for personalized **healthy food recommendations** based on medical history.  
 
+## 1️⃣4️⃣ [Cognivista](https://cognivista.vercel.app/)  
+A **Next.js-based** e-learning platform with **real-time collaboration, interactive whiteboards, quizzes & document sharing**.  
+
+### 🔹 Features  
+- **Smartboard**: Fabric.js / Konva.js + Socket.io  
+- **Image-Based Learning**: react-dropzone & Fabric.js  
+- **Paint App**: Canvas-based drawing  
+- **Video Player**: React-Player integration  
+- **Quizzes & Assessments**: Zustand + React Hook Form  
+- **Document Sharing**: react-pdf + Quill.js  
+
+## 1️⃣5️⃣ [DJSCE E-Cell Website](https://www.djsceecell.com/)  
+The **official platform** for DJ Sanghvi’s **Entrepreneurship & Incubation Cell**, featuring:  
+- **Startup resources**  
+- **Mentorship programs**  
+- **Event management**  
+
+---
+
+### 📌 Tech Stack Used  
+- **Frontend**: React.js, Next.js, TailwindCSS, Fabric.js, Konva.js  
+- **Backend**: Node.js, Firebase, Supabase, WebSockets  
+- **Databases**: Firestore, IndexedDB, PostgreSQL  
+- **Machine Learning**: NLP, Threat Intelligence, ML-based Analytics  
+- **Collaboration & Auth**: Socket.io, Firebase Auth  
+
+💡 *Feel free to explore, contribute, or reach out for collaborations!* 🚀  
 
 # 💫 About Me:
  I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at <a href="https://github.com/anshshah23/" target="blank" rel="noopener noreferrer">Github</a><br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me <a href="mailto:anshshah2303@gmail.com" target="_blank" rel="noopener noreferrer">
