@@ -24,8 +24,8 @@ Join me in the journey to learn React.js right from the basics, we shall cover a
 
 Welcome to my project portfolio! Over the years, I have worked on a diverse range of projects, starting with web development technologies like HTML, CSS, and JavaScript, and later advancing to more complex frameworks such as React and Next.js. Now, I'm excited to shift my focus toward AI-based projects, exploring how artificial intelligence can drive innovation in various domains.
 
-### Featured Projects:
 <section id="projects">
+### Featured Projects:
 1) [**PhishNetAi**](https://phishnetai.vercel.app/): A phishing detection AI with real-time scanning, deep analysis, and continuous learning.
    - **How It Works:**
      - **Real-Time Detection:** Scans emails, URLs, and metadata.
