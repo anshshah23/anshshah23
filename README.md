@@ -25,7 +25,7 @@ Join me in the journey to learn React.js right from the basics, we shall cover a
 Welcome to my project portfolio! Over the years, I have worked on a diverse range of projects, starting with web development technologies like HTML, CSS, and JavaScript, and later advancing to more complex frameworks such as React and Next.js. Now, I'm excited to shift my focus toward AI-based projects, exploring how artificial intelligence can drive innovation in various domains.
 
 ### Featured Projects:
-<section id="projects"></section>
+<section id="projects">
 1) [**PhishNetAi**](https://phishnetai.vercel.app/): A phishing detection AI with real-time scanning, deep analysis, and continuous learning.
    - **How It Works:**
      - **Real-Time Detection:** Scans emails, URLs, and metadata.
@@ -67,7 +67,7 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
      - **Document & Note Sharing:** react-pdf for PDFs and Quill.js for rich text editing.
 
 15) [**DJSCE E-Cell Website**](https://www.djsceecell.com): The official website for **DJSCE's Entrepreneurship & Incubation Cell**, showcasing startup resources, mentorship programs, and events to foster innovation and entrepreneurship among students.
-
+</section>
 I look forward to expanding my expertise and continuing to build impactful solutions, with a special focus on AI in the near future!
 
 
