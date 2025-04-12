@@ -26,7 +26,8 @@ Welcome to my project portfolio! Over the years, I have worked on a diverse rang
 
 <section id="projects">
 ### Featured Projects:
-1) [**PhishNetAi**](https://phishnetai.vercel.app/): A phishing detection AI with real-time scanning, deep analysis, and continuous learning.
+    
+1) [**PhishNet Ai**](https://phishnetai.vercel.app/): A phishing detection AI with real-time scanning, deep analysis, and continuous learning.
    - **How It Works:**
      - **Real-Time Detection:** Scans emails, URLs, and metadata.
      - **Deep Analysis:** Uses NLP, domain analysis, and visual similarity detection.
