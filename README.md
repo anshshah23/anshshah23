@@ -16,16 +16,16 @@ Join me in the journey to learn React.js right from the basics, we shall cover a
 
 
 # 💫 About Me:
- I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at <a href="https://github.com/anshshah23/" target="blank" rel="noopener noreferrer">Github</a><br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me <a href="mailto:anshshah2303@gmail.com" target="_blank" rel="noopener noreferrer">
+ I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at <a href="#projects" >Github</a><br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me <a href="mailto:anshshah2303@gmail.com" target="_blank" rel="noopener noreferrer">
         anshshah2303@gmail.com
-    </a><br><br>📄 Know about my experiences: <a href="#projects" >View My Portfolio</a>
+    </a><br><br>📄 Know about my experiences: <a href="https://anshshah.vercel.app" target="_blank" rel="noopener noreferrer" >View My Portfolio</a>
 
 # 💡 My Projects:
 
 Welcome to my project portfolio! Over the years, I have worked on a diverse range of projects, starting with web development technologies like HTML, CSS, and JavaScript, and later advancing to more complex frameworks such as React and Next.js. Now, I'm excited to shift my focus toward AI-based projects, exploring how artificial intelligence can drive innovation in various domains.
 
 ### Featured Projects:
-<section id="projects></section>
+<section id="projects"></section>
 1) [**PhishNetAi**](https://phishnetai.vercel.app/): A phishing detection AI with real-time scanning, deep analysis, and continuous learning.
    - **How It Works:**
      - **Real-Time Detection:** Scans emails, URLs, and metadata.
