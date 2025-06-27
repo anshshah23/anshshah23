@@ -1,12 +1,10 @@
 ![github readme image](https://github.com/anshshah23/anshshah23/assets/122973942/de8ff55a-9796-4e99-865e-803807f6b1b3)
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshshah23&label=Profile%20views&color=0e75b6&style=flat" alt="anshshah23" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Hey+there👋;+I'm+Ansh+Shah💻;+Full+Stack+Developer🚀;+Competitive+Coder+✊🏻;" />
 </h1>
-
 
 # 🔥Please Visit!:
 My <a href="https://anshshah.vercel.app" target="blank" rel="noopener noreferrer">Personal Website</a>
@@ -14,7 +12,6 @@ My <a href="https://anshshah.vercel.app" target="blank" rel="noopener noreferrer
 # 💻 Start learning React:
 Join me in the journey to learn React.js right from the basics, we shall cover all the topics, and finally build a major project as the finale! Follow the link to start NOW!
 <a href="https://github.com/anshshah23/learning-react" target="blank" rel="noopener noreferrer">Learning React</a>
-
 
 # 💫 About Me:
  I’m currently working on a mental health support website.<br><br>🌱 I’m currently learning Machine Learning<br><br>👯 I’m looking to collaborate on web development projects.<br><br>👨‍💻 All of my projects are available at <a href="#projects" >Github</a><br><br>💬 Ask me about React, Angular, Django etc.<br><br>📫 How to reach me <a href="mailto:anshshah2303@gmail.com" target="_blank" rel="noopener noreferrer">
