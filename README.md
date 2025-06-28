@@ -6,6 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Hey+there👋;+I'm+Ansh+Shah💻;+Full+Stack+Developer🚀;+Competitive+Coder+✊🏻;" />
 </h1>
 
+# Current Endeavor:
+I am pursuing a Data Analytics internship @Investacc Insurance Brokers Pvt. Ltd. Applying AI/ML and Analytics to provide deep insights and smooth flow of information.
+
 # 🔥Please Visit!:
 My <a href="https://anshshah.vercel.app" target="blank" rel="noopener noreferrer">Personal Website</a>
 <br><br>
