@@ -81,13 +81,9 @@ I look forward to expanding my expertise and continuing to build impactful solut
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshshah23&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=anshshah23&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshshah23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=anshshah23&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshshah23&theme=onedark&rank=S,SS,SSS,AAA,AA,A,B,C" alt="anshshah23" />
-</p>
 ---
 
 <h3 align="left">Connect with me:</h3>
