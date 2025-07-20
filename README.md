@@ -7,7 +7,7 @@
 </h1>
 
 # 🚀 Current Endeavor:
-I am a Project Intern (Data Analytics) @Investacc Insurance Brokers Pvt. Ltd. Applying AI/ML and Analytics to provide deep insights and smooth flow of information.
+I am a Project Intern (Data Analytics) @Investacc Insurance Brokers Pvt. Ltd. Applying AI/ML and Analytics to provide deep insights and smooth flow of information. This is a 3 months stint.
 
 # 🔥Please Visit!:
 My <a href="https://anshshah.vercel.app" target="blank" rel="noopener noreferrer">Personal Website</a>
